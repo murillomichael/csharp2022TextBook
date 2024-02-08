@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\bin\Debug\net7.0\FormattingChapter2.exe
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\bin\Debug\net7.0\FormattingChapter2.deps.json
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\bin\Debug\net7.0\FormattingChapter2.runtimeconfig.json
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\bin\Debug\net7.0\FormattingChapter2.dll
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\bin\Debug\net7.0\FormattingChapter2.pdb
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\FormattingChapter2.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\FormattingChapter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\FormattingChapter2.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\FormattingChapter2.AssemblyInfo.cs
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\FormattingChapter2.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\FormattingChapter2.dll
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\refint\FormattingChapter2.dll
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\FormattingChapter2.pdb
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\FormattingChapter2.genruntimeconfig.cache
+C:\Users\Michael\source\repos\CSharpBook\FormattingChapter2\obj\Debug\net7.0\ref\FormattingChapter2.dll

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<!--Here we are using a library statically 
+		We place it here if we want any files with in project to be able to use
+		without having to put in every file.-->
+	<ItemGroup>
+		<Using Include="System.Console" Static="true"/>
+	</ItemGroup>
+</Project>

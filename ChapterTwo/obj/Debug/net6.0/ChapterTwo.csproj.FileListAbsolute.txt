@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\bin\Debug\net6.0\ChapterTwo.exe
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\bin\Debug\net6.0\ChapterTwo.deps.json
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\bin\Debug\net6.0\ChapterTwo.runtimeconfig.json
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\bin\Debug\net6.0\ChapterTwo.dll
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\bin\Debug\net6.0\ChapterTwo.pdb
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ChapterTwo.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ChapterTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ChapterTwo.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ChapterTwo.AssemblyInfo.cs
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ChapterTwo.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ChapterTwo.dll
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\refint\ChapterTwo.dll
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ChapterTwo.pdb
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ChapterTwo.genruntimeconfig.cache
+C:\Users\Michael\source\repos\CSharpBook\ChapterTwo\obj\Debug\net6.0\ref\ChapterTwo.dll

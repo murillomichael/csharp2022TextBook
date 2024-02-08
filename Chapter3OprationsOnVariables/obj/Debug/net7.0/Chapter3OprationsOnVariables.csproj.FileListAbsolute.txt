@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\bin\Debug\net7.0\Chapter3OprationsOnVariables.exe
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\bin\Debug\net7.0\Chapter3OprationsOnVariables.deps.json
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\bin\Debug\net7.0\Chapter3OprationsOnVariables.runtimeconfig.json
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\bin\Debug\net7.0\Chapter3OprationsOnVariables.dll
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\bin\Debug\net7.0\Chapter3OprationsOnVariables.pdb
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\Chapter3OprationsOnVariables.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\Chapter3OprationsOnVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\Chapter3OprationsOnVariables.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\Chapter3OprationsOnVariables.AssemblyInfo.cs
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\Chapter3OprationsOnVariables.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\Chapter3OprationsOnVariables.dll
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\refint\Chapter3OprationsOnVariables.dll
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\Chapter3OprationsOnVariables.pdb
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\Chapter3OprationsOnVariables.genruntimeconfig.cache
+C:\Users\Michael\source\repos\CSharpBook\Chapter3OprationsOnVariables\obj\Debug\net7.0\ref\Chapter3OprationsOnVariables.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Section2.3Pratice/1.0.0": {
+        "runtime": {
+          "Section2.3Pratice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section2.3Pratice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

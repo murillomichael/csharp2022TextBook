@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\bin\Debug\net7.0\CastingConverting.exe
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\bin\Debug\net7.0\CastingConverting.deps.json
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\bin\Debug\net7.0\CastingConverting.runtimeconfig.json
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\bin\Debug\net7.0\CastingConverting.dll
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\bin\Debug\net7.0\CastingConverting.pdb
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\CastingConverting.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\CastingConverting.AssemblyInfo.cs
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\CastingConverting.dll
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\refint\CastingConverting.dll
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\CastingConverting.pdb
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\CastingConverting.genruntimeconfig.cache
+C:\Users\Michael\source\repos\CSharpBook\CastingConverting\obj\Debug\net7.0\ref\CastingConverting.dll

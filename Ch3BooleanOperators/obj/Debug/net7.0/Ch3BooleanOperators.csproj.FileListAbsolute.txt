@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\bin\Debug\net7.0\Ch3BooleanOperators.exe
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\bin\Debug\net7.0\Ch3BooleanOperators.deps.json
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\bin\Debug\net7.0\Ch3BooleanOperators.runtimeconfig.json
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\bin\Debug\net7.0\Ch3BooleanOperators.dll
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\bin\Debug\net7.0\Ch3BooleanOperators.pdb
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\Ch3BooleanOperators.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\Ch3BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\Ch3BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\Ch3BooleanOperators.AssemblyInfo.cs
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\Ch3BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\Ch3BooleanOperators.dll
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\refint\Ch3BooleanOperators.dll
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\Ch3BooleanOperators.pdb
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\Ch3BooleanOperators.genruntimeconfig.cache
+C:\Users\Michael\source\repos\CSharpBook\Ch3BooleanOperators\obj\Debug\net7.0\ref\Ch3BooleanOperators.dll

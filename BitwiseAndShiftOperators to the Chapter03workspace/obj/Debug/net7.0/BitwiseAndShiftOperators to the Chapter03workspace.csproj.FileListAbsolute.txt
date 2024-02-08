@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\bin\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.exe
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\bin\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.deps.json
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\bin\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.runtimeconfig.json
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\bin\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.dll
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\bin\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.pdb
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.AssemblyInfo.cs
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.dll
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\refint\BitwiseAndShiftOperators to the Chapter03workspace.dll
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.pdb
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\BitwiseAndShiftOperators to the Chapter03workspace.genruntimeconfig.cache
+C:\Users\Michael\source\repos\CSharpBook\BitwiseAndShiftOperators to the Chapter03workspace\obj\Debug\net7.0\ref\BitwiseAndShiftOperators to the Chapter03workspace.dll
