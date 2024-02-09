@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ch3BooleanOperators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88dd47912aaed3cc563ee640663f90b19fe28420")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ch3BooleanOperators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ch3BooleanOperators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

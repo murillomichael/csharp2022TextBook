@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Se3f0MLR3vdCOdlUrrIbycYmbtAVF2esqNpcwGZF9JD81yxnesW5g+9W94ONxkiGaS8w/XUY7xE1OZw3mGvuzA==",
+  "dgSpecHash": "v1HPPbL8ptrjOnFgiE/4DWTnIjQGaTzEV7nA9t3pS/9GGtadXB8CkiH4u+I59Hcf9JAyrxW+NyNQ9n0oTVcWVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\csharp2022TextBook\\Chapter3OprationsOnVariables\\Chapter3OprationsOnVariables.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\csharp2022TextBook\\CSharpBook\\Chapter3OprationsOnVariables\\Chapter3OprationsOnVariables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eCO78oeCyZ9jfsceryYQtM1PHy0gbDHZpagoPIQi5hQg3o1JmvsDBhSclcdOB2mzWjNhdhIE1BSL5yw543GuEQ==",
+  "dgSpecHash": "V/D5wBAd2RBn/CXUpwTlWYoyxgZFURLOEQVGZ0WUW1t2I6/Ob1tzeRJ+3fAGCPWjaA9LYPyAa3z6Un2Cz3Jn+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\csharp2022TextBook\\Arguments\\Arguments.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\csharp2022TextBook\\CSharpBook\\Arguments\\Arguments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

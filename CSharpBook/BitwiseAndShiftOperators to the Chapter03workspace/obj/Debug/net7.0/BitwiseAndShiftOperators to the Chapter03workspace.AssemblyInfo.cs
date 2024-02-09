@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitwiseAndShiftOperators to the Chapter03workspace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88dd47912aaed3cc563ee640663f90b19fe28420")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitwiseAndShiftOperators to the Chapter03workspace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitwiseAndShiftOperators to the Chapter03workspace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

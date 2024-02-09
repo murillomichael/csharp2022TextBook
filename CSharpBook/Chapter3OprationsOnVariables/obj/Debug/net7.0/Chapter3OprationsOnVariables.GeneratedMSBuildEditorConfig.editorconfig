@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Chapter3OprationsOnVariables
-build_property.ProjectDir = C:\Users\Michael\source\repos\csharp2022TextBook\Chapter3OprationsOnVariables\
+build_property.ProjectDir = C:\Users\User\OneDrive\Desktop\csharp2022TextBook\CSharpBook\Chapter3OprationsOnVariables\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

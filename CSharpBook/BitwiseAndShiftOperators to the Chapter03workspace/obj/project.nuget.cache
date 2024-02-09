@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+ftKCeqz8CjzTaJCUNFpC8xJzh1i35Aa93oHnq7iH+rjuu+Rk9HBPUtBi9zwWDM0DCiTi39nxpYQQoY7QDCWdQ==",
+  "dgSpecHash": "PhtrS0LQxVXi6lgz6Zw3yvenJ3VRNeapp0oqKzk202ni/4FbS1K10s93EXyx5JooTw39W/bPwCL+teOBBGMI6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\csharp2022TextBook\\BitwiseAndShiftOperators to the Chapter03workspace\\BitwiseAndShiftOperators to the Chapter03workspace.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\csharp2022TextBook\\CSharpBook\\BitwiseAndShiftOperators to the Chapter03workspace\\BitwiseAndShiftOperators to the Chapter03workspace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

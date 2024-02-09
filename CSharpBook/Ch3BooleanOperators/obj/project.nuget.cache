@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iXlaKTfSYHWL9OhZXXOyiL5LWGInBvrO+mVGqO+QoY50sWL3GVe5KEFIjg2eSeYHO+vbr/RZPo9NI2Ge/28mIg==",
+  "dgSpecHash": "WxPtK2kxi3X9S957MpAh3quBjnyZvM+TRisNfxRJW6F7DyDnKUS+90wXbS1LG1EwnbV6nydDlc+TopwiffhEtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\csharp2022TextBook\\Ch3BooleanOperators\\Ch3BooleanOperators.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\csharp2022TextBook\\CSharpBook\\Ch3BooleanOperators\\Ch3BooleanOperators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

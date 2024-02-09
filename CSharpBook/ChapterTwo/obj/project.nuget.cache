@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wADH6B/cV+m6p5MuURccxgK25G3skXv5gnzGateR80JJxK64Qiv6xm0gSg+FHsBTo7ctYdhjZ2X9QHsYvblHCw==",
+  "dgSpecHash": "77fusQWIX6bUHjawxp7R+Rpcu0Jr+cMn9H1D0smbxjrUsI6swmlHhTyg6Kb+P0sv6+lkzHzg0hs7v5YYZEw9Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\csharp2022TextBook\\ChapterTwo\\ChapterTwo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\csharp2022TextBook\\CSharpBook\\ChapterTwo\\ChapterTwo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

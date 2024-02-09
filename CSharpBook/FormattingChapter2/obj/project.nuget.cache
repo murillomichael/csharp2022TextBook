@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rx34UHARAjE4BZc2hebYshQOAP2Lazbo41cgjw0TRcZk+9Z2G4wwVkgVjDRo+7U5DZewv8MCUWX4Dt4jAhDAYQ==",
+  "dgSpecHash": "OAdRut53LmFeNuhZjPRE0tWsrBJc+eilG6K/bYXdSzulxKA9eCo31HZ9APIgzlqRV7yFjmAACztK48MUqk24SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\csharp2022TextBook\\FormattingChapter2\\FormattingChapter2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\csharp2022TextBook\\CSharpBook\\FormattingChapter2\\FormattingChapter2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
